@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Identifying Genes From DNA
 
 You can use the [editor on GitHub](https://github.com/1998tapan/Identifying-genes-from-DNA/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
